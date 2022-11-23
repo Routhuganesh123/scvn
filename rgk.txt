@@ -1,0 +1,2 @@
+This is my devops class
+started studying devops
