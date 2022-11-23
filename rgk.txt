@@ -1,4 +1,5 @@
 This is my devops class
 started studying devops
-learning devops from 14th
-Devops is not an easy task
+learning devops from 11th
+devops is the key for devlopment
+
